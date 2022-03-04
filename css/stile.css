@@ -1,5 +1,37 @@
+/* RESET */
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+/* COMMON */
+.mg-bt{
+    margin-bottom: 20px;
+}
+
+.container{
+    width: 80%;
+    height: 800px;
+    margin: 5% auto;
+    background-color: black;
+}
+.rose{
+    background-color: rgb(214, 122, 206);
+    height: 100px;
+}
+.yellow{
+    background-color: rgb(230, 230, 112);
+    height: 350px;
+}
+.celeste{
+    background-color: rgb(101, 197, 197);
+
+}
+.col{
+    height: 350px;
+    border: 2px solid yellow;
+}
+.purple{
+    background-color: blueviolet;
+    height: 50px;
 }
